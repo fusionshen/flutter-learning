@@ -818,5 +818,6 @@ exit code 0
 
 # 参考链接
 
-[developer.cn](https://flutter.dev/community/china)
+* [中国开发者设置](https://flutter.dev/community/china)
+* [关于Hyper-V和模拟器同时生效的问题](https://www.jianshu.com/p/1a958eda0313)
 
