@@ -812,7 +812,7 @@ exit code 0
 
 # 实例效果
 
-![](.\images\hello_world.png)
+![](https://github.com/fusionshen/flutter-learning/blob/master/images/hello_world.png)
 
 
 
